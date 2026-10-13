@@ -1,0 +1,19 @@
+# ninja log v5
+8	977	8129959272351789	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	577938d713eae8e4
+7	996	8129959272532725	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	faecacba788f3cfb
+1386	1453	8129959277106042	C:/Unity Projects/AR GPS UP PokemonGo/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6l606p3b/obj/arm64-v8a/libgame.so	2a21dbdd7b3d7174
+17	1156	8129959274150168	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	154a748162e67ed0
+4	1022	8129959272803695	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	e711e1fa72768ca5
+5	1089	8129959273443873	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	cdd25e78cd601b1d
+14	1050	8129959273064129	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7844d20e877f4809
+11	1302	8129959275582302	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	ec465d50c7f28a8e
+1	1386	8129959276418332	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	488560332af3c218
+10	542	8130631593663123	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	577938d713eae8e4
+6	555	8130631593807990	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	faecacba788f3cfb
+7	560	8130631593866398	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	e711e1fa72768ca5
+11	567	8130631593930286	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7844d20e877f4809
+9	588	8130631594135537	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	cdd25e78cd601b1d
+15	639	8130631594654808	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	154a748162e67ed0
+13	708	8130631595319819	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	ec465d50c7f28a8e
+4	772	8130631595937105	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	488560332af3c218
+772	819	8130631596441005	C:/Unity Projects/AR GPS UP PokemonGo/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6l606p3b/obj/arm64-v8a/libgame.so	2a21dbdd7b3d7174
